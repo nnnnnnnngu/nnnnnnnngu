@@ -9,4 +9,4 @@ I'm a PHP/Laravel full-stack developer who loves the TALL stack (Tailwind CSS, A
 
 ## Get in Touch
 - [LinkedIn](https://bit.ly/3WKB3wI)
-- [Upwork](https://www.upwork.com/freelancers/vitalikartsivadze)
+- [Upwork](https://bit.ly/4bkNdR5)
