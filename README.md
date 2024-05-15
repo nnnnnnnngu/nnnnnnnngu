@@ -8,5 +8,5 @@ I'm a PHP/Laravel full-stack developer who loves the TALL stack (Tailwind CSS, A
 - 🌱 Always learning and improving
 
 ## Get in Touch
-- [LinkedIn](https://www.linkedin.com/in/vitali-kartisvadze/)
+- [LinkedIn](https://bit.ly/3WKB3wI)
 - [Upwork](https://www.upwork.com/freelancers/vitalikartsivadze)
