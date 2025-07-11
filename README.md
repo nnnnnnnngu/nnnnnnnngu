@@ -1,12 +1,12 @@
-# Hi there 👋
+# Hello! 👋
 
-I'm a PHP/Laravel full-stack developer who loves the TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire). I enjoy building scalable web apps and writing clean code. Let's create something amazing!
+I’m a PHP/Laravel full-stack developer with a strong focus on the TALL stack — Tailwind CSS, Alpine.js, Laravel, and Livewire. I’m passionate about building scalable, maintainable web applications and writing clean, efficient code that delivers real value.
 
 ## About Me
-- 💻 Full-stack development with PHP and Laravel
-- 📚 Favorite stack: TALL (Tailwind CSS, Alpine.js, Laravel, Livewire)
-- 🌱 Always learning and improving
+- 💻 Experienced in full-stack web development with PHP and Laravel  
+- 🚀 Specialized in the TALL stack (Tailwind CSS, Alpine.js, Laravel, Livewire)  
+- 📈 Committed to continuous learning and staying up to date with best practices  
 
-## Get in Touch
-- [LinkedIn](https://bit.ly/3WKB3wI)
+## Let’s Connect
+- [LinkedIn](https://bit.ly/3WKB3wI)  
 - [Upwork](https://bit.ly/4bkNdR5)
